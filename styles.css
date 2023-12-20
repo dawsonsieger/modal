@@ -59,3 +59,25 @@ body {
     justify-content: center;
     padding: 0;
 }
+
+.warning {
+    margin-bottom: 8px;
+}
+
+button {
+    cursor: pointer;
+    padding: 8px 16px;
+    border-radius: 8px;
+}
+
+button.proceed {
+    background: royalblue;
+    color: white;
+    border: 1px solid royalblue;
+}
+
+button.cancel {
+    background: white;
+    color: royalblue;
+    border: 1px solid #ddd;
+}
