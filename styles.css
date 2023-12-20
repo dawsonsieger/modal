@@ -33,3 +33,18 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.close-button {
+    border-radius: 50%;
+    border: 1px solid #eee;
+    background: lavender;
+    color: grey;
+    font-size: 16px;
+    font-weight: 400;
+    height: 24px;
+    width: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+}
