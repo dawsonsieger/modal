@@ -1,0 +1,20 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    background: #e3dfde;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.modal {
+    background: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+}
