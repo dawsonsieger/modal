@@ -18,3 +18,16 @@ body {
     justify-content: center;
     width: 500px;
 }
+
+.icon {
+    color: royalblue;
+    font-size: 26px;
+    font-weight: 700px;
+    background: lavender;
+    border-radius: 50px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
