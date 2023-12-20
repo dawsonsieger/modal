@@ -1,1 +1,3 @@
 # modal
+
+A simple modal
